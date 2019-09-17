@@ -13,6 +13,8 @@ sfdx force:source:push -f
 #sfdx assign permission sets
 sfdx force:user:permset:assign -n Credit_Line_Increase_Demo
 
+sfdx force:data:tree:import --plan data/Plan1.json
+
 sfdx force:apex:execute -f config/create-demo-data-setup.apex
 
 sfdx force:org:open

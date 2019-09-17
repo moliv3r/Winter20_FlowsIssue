@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata" fqn="acctList">
+    <apiVersion>46.0</apiVersion>
+    <targets>   
+    <target>lightning__RecordPage</target> 
+    <target>lightning__FlowScreen</target>
+    </targets>
+    <targetConfigs>
+    <targetConfig targets="lightning__FlowScreen" category="textType">
+        <property name ="text" type="String"/>
+        <property name="acctL" type="@salesforce/schema/Account[]"/>
+        <property name="custom" type="@salesforce/schema/testing770__Test__c[]"/>
+    </targetConfig>
+    </targetConfigs>
+    <isExposed>true</isExposed>
+</LightningComponentBundle>
