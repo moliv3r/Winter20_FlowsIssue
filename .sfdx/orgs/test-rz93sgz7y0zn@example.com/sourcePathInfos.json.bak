@@ -1,0 +1,1232 @@
+[
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211160,
+            "changeTime": 1569590211160,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211160,
+            "changeTime": 1569590211160,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569592579657,
+            "changeTime": 1569592579657,
+            "contentHash": "3f8c9c24d8779b9711872c392e0c565a40869c87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211160,
+            "changeTime": 1569590211160,
+            "contentHash": "3419d6ae8ba04f666671d8b81cfe913943b625c7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\applications\\TE_Learning_Day.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\applications\\TE_Learning_Day.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1102,
+            "modifiedTime": 1569590211160,
+            "changeTime": 1569590211160,
+            "contentHash": "6386069e808141f087f47d4a62bc99b9f7a96332",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211176,
+            "changeTime": 1569590211176,
+            "contentHash": "667c790d466f7f3654c420ab19d1093aaccad91c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6931,
+            "modifiedTime": 1569590211160,
+            "changeTime": 1569590211160,
+            "contentHash": "0f0139a2b476dcd68c9cb968e630e96f28848b98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\Account_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6931,
+            "modifiedTime": 1569590211160,
+            "changeTime": 1569590211160,
+            "contentHash": "0f0139a2b476dcd68c9cb968e630e96f28848b98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\Account_Record_Page2.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\Account_Record_Page2.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6931,
+            "modifiedTime": 1569590211160,
+            "changeTime": 1569590211160,
+            "contentHash": "b4945a9ea28bf245a9da98f03ad6acc272fe9b93",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\Financial_Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\Financial_Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5025,
+            "modifiedTime": 1569590211176,
+            "changeTime": 1569590211176,
+            "contentHash": "4e88846a03d6fe2d7e88784b2f27bfd164a21048",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\TE_Learning_Day_Account_Record_Page1.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\TE_Learning_Day_Account_Record_Page1.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3808,
+            "modifiedTime": 1569590211176,
+            "changeTime": 1569590211176,
+            "contentHash": "a5f79430a4377c3c20fa454ffa1dea6a3732bc42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\TE_Learning_Day_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flexipages\\TE_Learning_Day_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 526,
+            "modifiedTime": 1569590211176,
+            "changeTime": 1569590211176,
+            "contentHash": "07f7f3e8b08bce4929b1edff863993da352acd48",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flows",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569592579660,
+            "changeTime": 1569592579660,
+            "contentHash": "1cd1e40f003d40610eb361ff4388bb030e65a7e9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flows\\My_Test_Flow.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\flows\\My_Test_Flow.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2580,
+            "modifiedTime": 1569592579660,
+            "changeTime": 1569592579660,
+            "contentHash": "347f1f6967fd0ff4484d030b0a09c5a4a58329cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211176,
+            "changeTime": 1569590211176,
+            "contentHash": "8cba0bbd1a2f704cd06ce6e888cdbdbee44d3077",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\layouts\\Test__c-Test Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\layouts\\Test__c-Test Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2143,
+            "modifiedTime": 1569590211176,
+            "changeTime": 1569590211176,
+            "contentHash": "0b48def5d8be1bd7a8315334f188592a8587956b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211182,
+            "changeTime": 1569590211182,
+            "contentHash": "7e3f558d7696415b41329dc0322be8ee6b3789cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\acctList",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\acctList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569593564895,
+            "changeTime": 1569593564895,
+            "contentHash": "e7cd811d354dd035ca94ee12d478facc69273dc3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\acctList\\acctList.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\acctList\\acctList.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 73,
+            "modifiedTime": 1569590211182,
+            "changeTime": 1569590211182,
+            "contentHash": "cbdd8ac681e5041642af2a825d37af06e6b85c02",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\acctList\\acctList.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\acctList\\acctList.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 559,
+            "modifiedTime": 1569593554237,
+            "changeTime": 1569593554237,
+            "contentHash": "8bda779277647cdf8b6a103facf750835f03814e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\acctList\\acctList.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\acctList\\acctList.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 688,
+            "modifiedTime": 1569593567592,
+            "changeTime": 1569593567592,
+            "contentHash": "41bdb7a47b0dfca4896e3f0b9ba8e60205a6a5d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\richText",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\richText",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211182,
+            "changeTime": 1569590211182,
+            "contentHash": "f62e9d3a5df97187a7661f45b7a6b7d989d535c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\richText\\richText.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\richText\\richText.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 117,
+            "modifiedTime": 1569590211182,
+            "changeTime": 1569590211182,
+            "contentHash": "d5beea96128290e708dbad050e424b3f8afcb4e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\richText\\richText.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\richText\\richText.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 215,
+            "modifiedTime": 1569590211182,
+            "changeTime": 1569590211182,
+            "contentHash": "da93afab1f9e2e5e3d3bc0ac346e16eeef7ee41c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\richText\\richText.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\lwc\\richText\\richText.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 495,
+            "modifiedTime": 1569590211182,
+            "changeTime": 1569590211182,
+            "contentHash": "6eb498ff931f17a14fb74f975a3b6dee1d0ac565",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "e5b8cf5e1d6da2884ba857f5e986f66a4365ee2c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "000724b417040bfe1652fe6164be4045b1f31b93",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4070,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "fc1b55c8f0c7aef5cbc3afd4049ed96ce1445d78",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\compactLayouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "7389e738744abb4760a5ad3b6703923b3ec7d965",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\compactLayouts\\telearndaypkg__TE_Learning_Day_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\compactLayouts\\telearndaypkg__TE_Learning_Day_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 441,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "c5d6a75c79496c156e331998b986103ed0a109ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "e8bdd803b20da9ec0bc8084ec522da9f6fa87702",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "3c124b31608f563ada6bd99255726d46083db218",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 234,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "384a972462fde81e73175117ecdc791f0f447eb8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "555ee7bd88d189b9ef381e5f732e92c7f66516b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "17f39d3667425e543c3f25231fd397a70b4c3b9e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "edc7848a5bfa75f14a6e69ef93874fda083d2d6e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "70b0e8552bc33c67620059d19329d520a97ac4c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1569590211198,
+            "changeTime": 1569590211198,
+            "contentHash": "9329aa8a81fcb301652178deb8e75487ad0c4beb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "ff7e7e4ced2ce57ee28410bc5d863342fb92fcdd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "ef6483feeca8d8a846bd11841959ed7170e1b20e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 229,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "9384f2c13a43a79de2909dc183d92bd6ca481311",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "d259680afeb61a4c49142d0f2224bf4d2d865a63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "7b674436fe553847f95a95be57b3e6303533c62d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "8e69fc58b200cdbdbff3aead1334d5f8b5c822c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "a348762e6f28525be0a04e0d0cefbeab5ce254ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 211,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "4967174bc7f968f24453f9b77a016534700b378f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 235,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "d2112777e8212058f308b2c21858daade2a69848",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "b7d412be3216cb9efc01a1a73b1be18ada7a928e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1569590211214,
+            "changeTime": 1569590211214,
+            "contentHash": "dfad41aedec815c5c3dae8f8b8e0c6b5722420b9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "e34e032532c659aa07e7426065371878014e059c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 199,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "b19da99a12a24159f0bb108f6ba8c50b1ee89310",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "2a8a36584fa7d932be50778cf559524c9863e381",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "ebd283f5e30908caead295aa176669c149556ebe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "e4b36658d95bae01e002509243463bdd5ae80aa4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "0e581720754872ad2e92c90974c4788885d6ff97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "7771715ac34684248bb8bad4005b8b08dadd1d34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\telearndaypkg__Credit_Rating__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\telearndaypkg__Credit_Rating__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 439,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "d99765f45ed117d494195e8c4e7de89fa439dae1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "ba538aa4c66d16bbacefa53625bf602af4e668e5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "452910fd0cb411b693b016a50ba9b45a033a1432",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "e593e0cf897ea2062937ca32f4e05d3b0a9ab456",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1569590211229,
+            "changeTime": 1569590211229,
+            "contentHash": "f1e64cc04ff71ec18a27ca56b85d13c54725a904",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 205,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "17f1096442afb38477aaf2c160a11b9c64148b13",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211261,
+            "changeTime": 1569590211261,
+            "contentHash": "82ff7edd839b33c0fc66eeb64bf8561994600506",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211261,
+            "changeTime": 1569590211261,
+            "contentHash": "bc3d935d51cf1801f2ee7358dabdf4044cb1fae2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Account_Number__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Account_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 474,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "7ff4b4591ef7989d54c96e2e54fccc3dd813a459",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Account__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 624,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "739617554d94bef3d0fdddab38e16e804bdd8e14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Current_Limit__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Current_Limit__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 477,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "af7015c9aeced93906481b34378d197bf807fd44",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1569590211261,
+            "changeTime": 1569590211261,
+            "contentHash": "82b878d40f44481c2f42e2cfe9e04e534a7ab263",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Expiration_Month__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Expiration_Month__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 478,
+            "modifiedTime": 1569590211261,
+            "changeTime": 1569590211261,
+            "contentHash": "a7c6ce8b2787627eb94f8f0804182f9f578f562d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Expiration_Year__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Expiration_Year__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 476,
+            "modifiedTime": 1569590211261,
+            "changeTime": 1569590211261,
+            "contentHash": "d3fb2fb5b47b83a5c63ef5a43b27fc7d76c3e89c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Type__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\fields\\telearndaypkg__Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1615,
+            "modifiedTime": 1569590211261,
+            "changeTime": 1569590211261,
+            "contentHash": "263becc9fc9ab4c3b3b28a624262836656870cc4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211261,
+            "changeTime": 1569590211261,
+            "contentHash": "ca40dfd73e2f15610e6e653c82236b8f56d809c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\listViews\\telearndaypkg__All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\listViews\\telearndaypkg__All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1569590211261,
+            "changeTime": 1569590211261,
+            "contentHash": "b5b59364a8e244790ead28dc8fd165963598bb47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\telearndaypkg__Financial_Account__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\telearndaypkg__Financial_Account__c\\telearndaypkg__Financial_Account__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2230,
+            "modifiedTime": 1569590211261,
+            "changeTime": 1569590211261,
+            "contentHash": "85456cca7d6e2ccc783aff76284ccfb9869d664a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Test__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Test__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "c9fe85f173a20ff05a980e69ba1273a231171629",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Test__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Test__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "fdf33de79190e3398da8f694d1d7a5a3f0bfa83a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Test__c\\fields\\Test123__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Test__c\\fields\\Test123__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "81e77fbe13db9c15e2d9e7624e502e16241f0ad8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Test__c\\Test__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\objects\\Test__c\\Test__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2116,
+            "modifiedTime": 1569590211245,
+            "changeTime": 1569590211245,
+            "contentHash": "71579996ac5efecc93f91ff591696a0775f64406",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\standardValueSets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\standardValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211276,
+            "changeTime": 1569590211276,
+            "contentHash": "d915f229e3ac5e039d822811872fc3d72ed33fe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\standardValueSets\\CaseStatus.standardValueSet-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\standardValueSets\\CaseStatus.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1297,
+            "modifiedTime": 1569590211276,
+            "changeTime": 1569590211276,
+            "contentHash": "6ed5fb1e0ab37ad4f462af68b93ec591086e650f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\standardValueSets\\CaseType.standardValueSet-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20\\force-app\\main\\default\\standardValueSets\\CaseType.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1091,
+            "modifiedTime": 1569590211276,
+            "changeTime": 1569590211276,
+            "contentHash": "2cdbf38693fdf079591553cbf19f8922bbdb5fb9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SalesForce\\FlowWinter20",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SalesForce\\FlowWinter20",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1569590211283,
+            "changeTime": 1569590211283,
+            "contentHash": "682a5bf457c0f6bf8b57f4c224e7508cdefb5afe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

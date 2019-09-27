@@ -6,7 +6,7 @@
       "default": true
     }
   ],
-  "namespace": "",
+  "namespace": "riskexplorer",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "45.0"
 }
