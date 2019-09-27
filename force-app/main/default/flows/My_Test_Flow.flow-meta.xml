@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionCalls>
+        <name>Create_Note</name>
+        <label>Create Note</label>
+        <locationX>200</locationX>
+        <locationY>46</locationY>
+        <actionName>NewNote</actionName>
+        <actionType>quickAction</actionType>
+        <inputParameters>
+            <name>Title</name>
+            <value>
+                <stringValue>My New Note</stringValue>
+            </value>
+        </inputParameters>
+    </actionCalls>
+    <interviewLabel>My Test Flow {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>My Test Flow</label>
+    <processMetadataValues>
+        <name>BuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processMetadataValues>
+        <name>OriginBuilderType</name>
+        <value>
+            <stringValue>LightningFlowBuilder</stringValue>
+        </value>
+    </processMetadataValues>
+    <processType>Flow</processType>
+    <screens>
+        <name>My_Screen</name>
+        <label>My Screen</label>
+        <locationX>50</locationX>
+        <locationY>203</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <fields>
+            <name>Test_Component</name>
+            <extensionName>riskexplorer:acctList</extensionName>
+            <fieldType>ComponentInstance</fieldType>
+            <isRequired>true</isRequired>
+            <outputParameters>
+                <assignToReference>Test_Records</assignToReference>
+                <name>custom</name>
+            </outputParameters>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <startElementReference>Create_Note</startElementReference>
+    <status>InvalidDraft</status>
+    <variables>
+        <name>Test_Records</name>
+        <dataType>SObject</dataType>
+        <isCollection>true</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+        <objectType>Test__c</objectType>
+    </variables>
+</Flow>

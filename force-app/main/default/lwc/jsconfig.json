@@ -1,6 +1,15 @@
 {
     "compilerOptions": {
-        "experimentalDecorators": true
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/acctList": [
+                "acctList/acctList.js"
+            ],
+            "c/richText": [
+                "richText/richText.js"
+            ]
+        }
     },
     "include": [
         "**/*",

@@ -9,7 +9,7 @@
     <targetConfig targets="lightning__FlowScreen" category="textType">
         <property name ="text" type="String"/>
         <property name="acctL" type="@salesforce/schema/Account[]"/>
-        <property name="custom" type="@salesforce/schema/testing770__Test__c[]"/>
+        <property name="custom" type="@salesforce/schema/riskexplorer__Test__c[]"/>
     </targetConfig>
     </targetConfigs>
     <isExposed>true</isExposed>
